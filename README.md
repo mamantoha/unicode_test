@@ -4,6 +4,10 @@ This tests are based on the article http://blog.honeybadger.io/ruby-s-unicode-su
 
 [![Build Status](https://travis-ci.org/mamantoha/unicode_test.svg?branch=master)](https://travis-ci.org/mamantoha/unicode_test)
 
+* Ruby 2.4.0 - 77 runs, 77 assertions, 33 failures, 0 errors, 0 skips
+
+* Ruby 2.3.3 - 77 runs, 77 assertions, 34 failures, 0 errors, 0 skips
+
 ## Usage
 
 Run
