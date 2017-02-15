@@ -1,6 +1,8 @@
 # Testing Ruby's Unicode Support
 
-This tests are basen on the article http://blog.honeybadger.io/ruby-s-unicode-support/
+This tests are based on the article http://blog.honeybadger.io/ruby-s-unicode-support/
+
+[![Build Status](https://travis-ci.org/mamantoha/unicode_test.svg?branch=master)](https://travis-ci.org/mamantoha/unicode_test)
 
 ## Usage
 
