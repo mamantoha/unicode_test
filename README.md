@@ -8,6 +8,8 @@ This tests are based on the article http://blog.honeybadger.io/ruby-s-unicode-su
 
 * Ruby 2.3.3 - 77 runs, 77 assertions, 34 failures, 0 errors, 0 skips
 
+* JRuby 9.1.7.0 - 77 runs, 75 assertions, 34 failures, 2 errors, 0 skips
+
 ## Usage
 
 Run
