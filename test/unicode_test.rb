@@ -69,8 +69,7 @@ describe UnicodeTest do
   end
 
   it '#chomp' do
-    ("ä
-  ".chomp).must_equal("ä")
+    ("ä".chomp).must_equal("ä")
   end
 
   it '#chop' do
