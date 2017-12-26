@@ -4,9 +4,11 @@ This tests are based on the article http://blog.honeybadger.io/ruby-s-unicode-su
 
 [![Build Status](https://travis-ci.org/mamantoha/unicode_test.svg?branch=master)](https://travis-ci.org/mamantoha/unicode_test)
 
-* Ruby 2.4.2 - 77 runs, 77 assertions, 32 failures, 0 errors, 0 skips
+* Ruby 2.5.0 - 77 runs, 77 assertions, 32 failures, 0 errors, 0 skips
 
-* Ruby 2.3.3 - 77 runs, 77 assertions, 33 failures, 0 errors, 0 skips
+* Ruby 2.4.3 - 77 runs, 77 assertions, 32 failures, 0 errors, 0 skips
+
+* Ruby 2.3.6 - 77 runs, 77 assertions, 33 failures, 0 errors, 0 skips
 
 * JRuby 9.1.9.0 - 77 runs, 75 assertions, 31 failures, 2 errors, 0 skips
 
